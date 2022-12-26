@@ -55,7 +55,7 @@ career-profile:
     summary: |
       With more than 10 years in software development, I have built and contribute my solid knowledge and skills to develop useful and valuable apps for my clients.
 
-      I am proficient with NodeJS for developing API and web app as well as most popular mobile app development technologies such as: iOS (Swift), Android (Java/Kotlin), React Native, Flutter. I believe I can bring even more value to my clients by taking all steps in the software development process, from analyzing requirements to implementing and distributing to users, making me a full-stack developer.
+      I am proficient with NodeJS and PHP for developing API and web app as well as most popular mobile app development technologies such as: iOS (Swift), Android (Java/Kotlin), React Native, Flutter. I believe I can bring even more value to my clients by taking all steps in the software development process, from analyzing requirements to implementing and distributing to users, making me a full-stack developer.
 
 education:
     title: Education
@@ -76,7 +76,7 @@ experiences:
         time: 2012 - 2022
         company: NUS Technology
         details: |
-          I worked for NUS Technology in 10 years and through many roles and projects. I contributed to the success of many key projects there. My main roles:
+          I worked for NUS Technology in 10 years through many roles and projects. I contributed to the success of many key projects there. My main roles:
 
           - Web Developer
           - API Developer
@@ -137,6 +137,9 @@ skills:
     toolset:
       - name: NodeJS
         level: 98%
+      
+      - name: PHP
+        level: 95%
       
       - name: React
         level: 93%
